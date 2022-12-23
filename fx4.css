@@ -1,0 +1,44 @@
+div {
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+}
+.selection1{
+    flex: 1; 
+    display: flex;   
+      
+}
+.s1-block1{
+    flex: 1;
+    height: 300px;
+    
+}
+.s1-block2{
+    flex: 1;
+}
+.s1-block3{
+    flex: 1;
+}
+
+.selection2{
+    flex: 1;  
+    display: flex;
+    
+   
+}
+.s2-block4{
+    flex: 1;
+    height: 300px;
+   
+}
+.s2-block5{
+    flex: 1;
+}
+
+
+

@@ -1,0 +1,51 @@
+div {
+    border: 1px solid black;
+    margin: 10px; 
+}
+
+.display{
+    display: flex;
+    flex-direction: row;
+    height: 700px;
+    flex: 1;
+}
+.slidebar{
+    width: 200px;
+    background-color: bisque;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+    flex: 1;
+}
+.header{
+    flex: 1;
+    background-color: aqua;
+    text-align: center;
+    font-size: 20px;
+}
+.body{
+    flex: 4;
+    flex-direction: row;
+    display: flex;
+}
+.body-block1{
+    flex: 3;
+    background-color: rgb(151, 242, 151) ;
+}
+.body-block2{
+    flex: 3;
+    background-color: rgb(138, 171, 138) ;
+}
+.body-block3{
+    flex: 3;
+    background-color: rgb(35, 78, 35) ;
+}
+.footer{
+    flex: 1;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 20px;
+}
+

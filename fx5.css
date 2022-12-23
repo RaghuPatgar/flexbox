@@ -1,0 +1,71 @@
+div {
+    border: 1px solid black;
+    margin: 10px;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+}
+.selection1{
+    flex: 0.5;
+}
+.selection2{
+    flex: 2;
+    display: flex;
+    flex-direction: column;     
+}
+.s2-block1{
+    flex: 0.5;
+    height: 400px; 
+}
+.selection3{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
+.s3-block1{
+    flex: 0.5;
+    height: 300px;
+}
+.selection4{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+}
+.s4-block1{
+    flex: 0.5;
+    height: 200px;
+}
+.selection5{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
+.s5-block1{
+    flex: 0.5;
+    height: 150px;
+}
+.s5-block2{
+    flex: 0.5;
+    height: 150px;
+}
+.selection6{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+}
+.s6-block1{
+    flex: 0.5;
+    height: 50px;
+}
+.s6-block2{
+    flex: 0.5;
+    height: 50px;
+}
+.s6-block3{
+    flex: 0.5;
+    height: 50px;
+}

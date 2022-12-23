@@ -1,0 +1,175 @@
+div {
+    border: 1px solid black;
+}
+
+
+
+.header-container {
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    font-size: 15px;
+    flex-direction: row-reverse;
+    margin-bottom: 80px;
+}
+
+.image {
+
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+}
+
+.search {
+    max-width: 550px;
+    height: 40px;
+    padding-top: 10px;
+    
+
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 5px;
+    padding: 0 20px;
+    height: 25px;
+    font-size: 15px;
+
+}
+
+.language-container {
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    font-size: 15px;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.footer-container {
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    font-size: 15px;
+}
+
+.footer-container1 {
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    font-size: 15px;
+    flex-direction: row;
+
+}
+
+.footer {
+    display: flex;
+    float: left;
+    padding: 1px;
+    margin: 1px;
+}
+
+.footer1 {
+    display: flex;
+    float: left;
+    padding: 1px;
+    margin: 1px;
+}
+
+.footer2 {
+    display: flex;
+    float: left;
+    padding: 1px;
+    margin: 1px;
+}
+
+.footer3 {
+    display: flex;
+    float: left;
+    padding: 1px;
+    margin: 1px;
+}
+
+.footer4 {
+    display: flex;
+    float: left;
+    padding: 1px;
+    margin: 1px;
+}
+
+
+
+.footer5 {
+    display: flex;
+    float: right;
+    padding: 1px;
+    margin: 1px;
+
+}
+
+.footer6 {
+    display: flex;
+    float: right;
+    padding: 1px;
+    margin: 1px;
+}
+
+.footer7 {
+    display: flex;
+    float: right;
+    padding: 1px;
+    margin: 1px;
+}
+
+.header1 {
+    display: flex;
+    /* float: right; */
+    padding: 1px;
+    margin: 1px;
+}
+
+.header2 {
+    display: flex;
+    /* float: right; */
+    padding: 1px;
+    margin: 1px;
+}
+
+.header3 {
+    display: flex;
+    /* float: right; */
+    padding: 1px;
+    margin: 1px;
+}
+
+.language1 {
+    display: flex;
+    padding: 1px;
+    margin: 1px;
+}
+
+.language2 {
+    display: flex;
+    padding: 1px;
+    margin: 1px;
+}
+
+.language3 {
+    display: flex;
+    padding: 1px;
+    margin: 1px;
+}
